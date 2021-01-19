@@ -1,4 +1,4 @@
-def solution_(s):
+def solution(s):
     len_s = len(s)
 
     if len(set(s)) == 1:

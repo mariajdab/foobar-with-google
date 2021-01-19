@@ -42,6 +42,3 @@ def solution(n, b, result=None):
         result.append(s[::-1])
         return solution(s, b, result)
 
-
-print(solution('210022', 3))
-print(solution('1211', 10))

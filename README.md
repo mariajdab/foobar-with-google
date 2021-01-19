@@ -8,12 +8,12 @@
 
 but, with my insatiable curiosity I accepted it, of course  :) 
 
-Later, I realized it's a programming challenge by Google that the people can get it based on their search history or by a friend invitation.
+Later, I realized it's a programming challenge by Google that people can get based on their search history or by a friend invitation.
 Here, I would like to share the interesting problems that I encountered and my solutions to them. 
 
 A bit of context:
 
-After accepting the invitation and link it with my email account, I saw a terminal kind, typing "help" I saw all I need to get started. For example, to get a challenge, I needed to type "request" then automatically I will have a folder in the workspace, the name folder will be the challenge name and an important thing is after requested the challenge ***the time starts to run***. You can see it in the image below, there I already had requested the challenge. 
+After accepting the invitation and linking it with my email account, I saw some kind of terminal emulator. Typing "help" gave me access to all the information I needed to get started. For example, to get a challenge, I needed to type "request" then automatically I will have a folder in the workspace, the name of the folder will be the challenge's name and something important to point out is that after requesting the challenge the timer starts to run. You can see it in the image below, there I already had requested the challenge. 
 
 
 The firts challenge (level 1) was: **the-cake-is-not-a-lie.** 
@@ -22,10 +22,10 @@ The firts challenge (level 1) was: **the-cake-is-not-a-lie.**
 
 
 If I move to the challenge folder I was able see some files:
-- **readme.txt** (typing "cat readme.txt" you will see the challenge)
-- **constraints.txt** (where see the limitations)
-- **solution.py**     (where put Python code solution)
-- **Solution.java**   (where put Java code solution)
+- **readme.txt** (Typing "cat readme.txt" to see the challenge)
+- **constraints.txt** (Where to see the limitations.)
+- **solution.py**     (Where Python code solution will be stored.)
+- **Solution.java**   (Where Java code solution will be stored.)
 <br></br>
 
 ## Constraints
@@ -47,6 +47,8 @@ Time: 48 hours to solve it.
 
 ## Challenge level 2
 **Part 1:  ion_flux_relabeling**
+
+
 Time: 72 hours to solve it
 <br> </br>
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image8.jpg)
@@ -55,6 +57,7 @@ Time: 72 hours to solve it
 <br> </br>
 
 **Part 2:  hey-i-already-did-that:**
+<br> </br>
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/level2.png)
 .. If the algorithm reaches a constant, such as 0, then the length is 1.
 
