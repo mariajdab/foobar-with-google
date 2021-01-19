@@ -39,23 +39,24 @@ I chose to work my solutions with Python
 
 ## Challenge level 1: the-cake-is-not-a-lie
 Time: 48 hours to solve it.
-
+<br> </br>
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image3.png)
 
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image4.jpg)
 <br> </br>
 
 ## Challenge level 2
-# Part 1:  ion_flux_relabeling
+**Part 1:  ion_flux_relabeling**
 Time: 72 hours to solve it
+<br> </br>
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image8.jpg)
 
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/image9.jpg)
 <br> </br>
 
-# Part 2:  hey-i-already-did-that: 
+**Part 2:  hey-i-already-did-that:**
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/level2.png)
+.. If the algorithm reaches a constant, such as 0, then the length is 1.
 
-# Challenge leve 3
+## Challenge level 3
 ![](https://github.com/mariajdab/foobar-with-google/blob/main/images.md/leve3.png)
-
